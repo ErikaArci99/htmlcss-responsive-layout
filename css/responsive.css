@@ -46,5 +46,7 @@
 /* desktop */
 
 @media screen and (min-width:992px){
-
+    .recipe-name {
+        font-size: 2.5em;
+    }
 }
