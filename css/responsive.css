@@ -29,4 +29,9 @@
         border: 0;
         padding: 10px 50px;
     }
+
+    .ads {
+        display: block;
+        margin: 30px auto;
+    }
 }
