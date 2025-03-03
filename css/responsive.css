@@ -65,5 +65,10 @@
 
     .recipe-video{
         width: 70%;
+        height: 70%;
+    }
+
+    .social-networks .label {
+        display: inline-block;
     }
 }
