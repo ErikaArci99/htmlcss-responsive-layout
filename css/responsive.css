@@ -17,7 +17,7 @@
     }
 
     .recipe-name {
-        font-size: 2em;
+        font-size: 1.8em;
     }
 
     .quick-notes li{
@@ -41,5 +41,10 @@
         margin-right: 10px;
     }
 
+}
+
+/* desktop */
+
+@media screen and (min-width:992px){
 
 }
