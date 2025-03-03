@@ -1,5 +1,22 @@
 /* Soluzione qui */
 
+/* bonus */
+
+@media screen and (min-width:576px){
+    .presentation img{
+        display: inline-block;
+        float: left;
+        margin-right: 10px;
+    }
+
+    .btn {
+        border: 0;
+        padding: 10px 40px;
+    }
+
+}
+
+
 /* tablet */
 
 @media screen and (min-width:768px){
