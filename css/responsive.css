@@ -19,5 +19,9 @@
     .recipe-name {
         font-size: 2em;
     }
-    
+
+    .quick-notes li{
+        width: 30%;
+        display: inline-block;
+    }
 }
