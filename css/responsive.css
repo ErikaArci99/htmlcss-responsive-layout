@@ -24,4 +24,9 @@
         width: 30%;
         display: inline-block;
     }
+
+    .btn {
+        border: 0;
+        padding: 10px 50px;
+    }
 }
